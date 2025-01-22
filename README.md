@@ -42,15 +42,8 @@ npm run dev
 ```
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-## Contact
 
-### Explanation:
-1. **Project Overview**: A brief description of the purpose of the landing page.
-2. **Features**: Highlights the main features of the landing page.
-3. **Technologies Used**: Lists the main technologies and tools used to build the page.
-4. **Setup Instructions**: Step-by-step guide to clone, install dependencies, and run the project locally.
-5. **Project Structure**: Provides an overview of the folder structure to help other developers navigate the code.
-6. **Screenshots**: A placeholder for screenshots of the desktop and mobile views.
-7. **Contributions and License**: Information on contributing to the project and licensing details.
+
+
 
 
