@@ -48,7 +48,7 @@ const About = () => {
           <div className="relative">
             <div className="rounded-lg overflow-hidden shadow-xl">
               <img 
-                src="/src/assets/about.png" 
+                src="/about.png" 
                 alt="Register Karo Team"
                 className="w-full h-full object-cover rounded-lg"
               />

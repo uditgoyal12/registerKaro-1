@@ -1,11 +1,11 @@
 
 const companyLogos = [
-  { name: "Coinbase", src: "/src/assets/oracle.png" },
-  { name: "Spotify", src: "/src/assets/mor.png" },
-  { name: "Slack", src: "/src/assets/mor.png" },
-  { name: "Dropbox", src: "/src/assets/samsung.png" },
-  { name: "Webflow", src: "/src/assets/monde.png" },
-  { name: "Zoom", src: "/src/assets/seg.png" }
+  { name: "Coinbase", src: "/oracle.png" },
+  { name: "Spotify", src: "/mor.png" },
+  { name: "Slack", src: "/mor.png" },
+  { name: "Dropbox", src: "/samsung.png" },
+  { name: "Webflow", src: "/monde.png" },
+  { name: "Zoom", src: "/seg.png" }
 ];
 
 const Hero = () => {
@@ -56,7 +56,7 @@ const Hero = () => {
 
           <div className="relative">
             <img
-              src="/src/assets/hero.png"
+              src="/hero.png"
               alt="Business Compliance"
               className="w-full h-auto"
             />

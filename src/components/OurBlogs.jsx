@@ -56,7 +56,7 @@ const OurBlogs = () => {
   const blogs = [
     {
       image:
-        "/src/assets/Image 1.png",
+        "/Image 1.png",
       author: "Prabhash Mishra",
       date: "1 Jan 2023",
       isToday: true,
@@ -67,7 +67,7 @@ const OurBlogs = () => {
     },
     {
       image:
-        "/src/assets/Image 2.png",
+        "/Image 2.png",
       author: "Mahesh Kumar",
       date: "1 Jan 2023",
       title: "Scale-Up Company Offer",
@@ -77,7 +77,7 @@ const OurBlogs = () => {
     },
     {
       image:
-        "/src/assets/Image 1.png",
+        "/Image 1.png",
       author: "Rakhi Verma",
       date: "1 Jan 2023",
       title: "Growing Business Package",
@@ -87,7 +87,7 @@ const OurBlogs = () => {
     },
     {
         image:
-          "/src/assets/Image 4.png",
+          "/Image 4.png",
         author: "Karan Kumar",
         date: "1 Jan 2023",
         title: "Scale-Up Company Offer",
@@ -97,7 +97,7 @@ const OurBlogs = () => {
       },
       {
         image:
-          "/src/assets/Image 5.png",
+          "/Image 5.png",
         author: "Richa Singh",
         date: "1 Jan 2023",
         title: "Scale-Up Company Offer",
@@ -107,7 +107,7 @@ const OurBlogs = () => {
       },
       {
         image:
-          "/src/assets/Image 6.png",
+          "/Image 6.png",
         author: "Miss Nora",
         date: "1 Jan 2023",
         title: "Scale-Up Company Offer",

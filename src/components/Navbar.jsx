@@ -67,14 +67,14 @@ export default function Navbar() {
             <a href="#home">
               {/* GIF */}
               <img
-                src="/src/assets/anima.gif"
+                src="/anima.gif"
                 alt="Animated Logo"
                 className="absolute h-16 w-[20rem]"
               />
 
               {/* Static Logo */}
               <img
-                src="/src/assets/logo.png"
+                src="/logo.png"
                 alt="RegisterKaro"
                 className="relative h-16 w-[20rem]"
               />

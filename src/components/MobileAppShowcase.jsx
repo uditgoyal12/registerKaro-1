@@ -23,12 +23,12 @@ const features = [
 ];
 
 const companyLogos = [
-  { name: "Coinbase", src: "/src/assets/coinbase.png" },
-  { name: "Spotify", src: "/src/assets/spotify.png" },
-  { name: "Slack", src: "/src/assets/slak.png" },
-  { name: "Dropbox", src: "/src/assets/dropbox.png" },
-  { name: "Webflow", src: "/src/assets/webflow.png" },
-  { name: "Zoom", src: "/src/assets/zoom.png" }
+  { name: "Coinbase", src: "/coinbase.png" },
+  { name: "Spotify", src: "/spotify.png" },
+  { name: "Slack", src: "/slak.png" },
+  { name: "Dropbox", src: "/dropbox.png" },
+  { name: "Webflow", src: "/webflow.png" },
+  { name: "Zoom", src: "//zoom.png" }
 ];
 
 const MobileAppShowcase = () => {
@@ -82,7 +82,7 @@ const MobileAppShowcase = () => {
           <div className="lg:w-1/2 relative">
             <div className="relative w-full max-w-md mx-auto">
               <img 
-                src="/src/assets/mobile.png" 
+                src="/mobile.png" 
                 alt="iPhone Mockup" 
                 className="w-full"
               />
