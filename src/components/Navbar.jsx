@@ -30,9 +30,9 @@ export default function Navbar() {
       {/* Top bar */}
       <div className="bg-blue-600 text-white py-2">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center text-sm">
-          <span>www.registerkaro.in</span>
+          <span>www.Registerkaro.in</span>
           <div className="hidden md:flex items-center space-x-4">
-            <span>+918447746183</span>
+            <span>+918126543300</span>
             <div className="flex items-center space-x-2">
               <a href="#" className="hover:text-primary">
                 <svg
